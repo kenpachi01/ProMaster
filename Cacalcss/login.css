@@ -1,0 +1,44 @@
+body{
+     margin: 1;
+     padding: 0;
+     font-family: sans-serif;
+
+
+     }
+     
+    h1{
+        margin: 1;
+        padding: 0px;
+        text-align: left;
+        font-size: 40px;
+        border-width: small;
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 5px;
+        border-low-width: 5px;
+        border-right-width: 5px;
+        border-left-width: 5px;
+        background-color: #FFFFFF;
+       
+    }
+    
+    h2{
+        margin: 1;
+        padding: 0 0 20px;
+        text-align: center;
+        font-size: 22px;
+    }
+  
+    table{
+        aling:right;
+        margin: 1;
+        border-width: small;
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 5px;
+        border-right-width: 5px;
+        border-low-width: 5px;
+        border-left-width: 5px;
+        background-color: #FFFFFF;
+    }
+

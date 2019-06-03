@@ -1,0 +1,65 @@
+body{
+     margin: 1;
+     padding: 0;
+     font-family: sans-serif;
+
+
+     }
+     
+    h1{
+        margin: 1;
+        padding: 0px;
+        text-align: left;
+        font-size: 40px;
+        border-width: small;
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 5px;
+        border-low-width: 5px;
+        border-right-width: 5px;
+        border-left-width: 5px;
+        background-color: #FFFFFF;
+       
+    }
+    iframe{
+        border_align:center;
+        margin: 1;
+        padding: 0px;
+        text-align:center;
+        font-size: 20px;
+        border-width: small;
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 1px;
+        border-low-width: 1px;
+        border-right-width: 1px;
+        border-left-width: 1px;
+        background-color: #FFFFFF;
+    }
+pre{
+        margin: 1;
+        padding: 0px;
+        text-align: left;
+        font-size: 19px;
+        border-width: small;
+        border-style: solid;
+        border-top-width: 2px;
+        border-bottom-width: 2px;
+        border-right-width: 2px;
+        border-left-width: 2px;
+}
+td{
+        margin: 1;
+        padding: 0px;
+        text-align: left;
+        font-size: 19px;
+        border-width: small;
+        border-style: solid;
+        border-top-width: 3px;
+        border-bottom-width: 3px;
+        border-right-width: 3px;
+        border-left-width: 3px;
+}
+table{
+    background-color: #FFFFFF;
+}

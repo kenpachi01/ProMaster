@@ -1,0 +1,27 @@
+h1{
+        margin: 1;
+        padding: 0 0 16px;
+        text-align: left;
+        font-size: 40px;
+        border-width: small;
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 3px;
+        border-low-width: 3px;
+        boder-low-width: 3px;
+        border-right-width: 3px;
+        border-left-width: 3px;
+        background-color: #FFFFFF;
+}
+table{
+        margin: 1;
+        padding: 0 0 16px;
+        border-width: small; 
+        border-style: solid;
+        border-color: #0B0719;
+        border-top-width: 3px;
+        border-right-width: 3px;
+        border-low-width: 3px;
+        border-left-width: 3px;
+        background-color: #FFFFFF;
+    }
