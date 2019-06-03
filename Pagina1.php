@@ -129,8 +129,7 @@ src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCeq5P7v-Nm-AaPau8vlHA5
            do{
                
            ?>    
-           
-       
+              
        <tr>
            <td width="100"><?php echo $linha['id']; ?></td>
            <td width="100"><?php echo $linha['nome']; ?></td>

@@ -21,6 +21,5 @@ if($resultado->num_rows>0){
         alert('Login ou senha incorreto');
         window.location.href = 'login.php';
         </script>";
-    
 }
 ?>

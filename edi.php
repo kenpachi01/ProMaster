@@ -21,5 +21,6 @@ if($link){
    
 }else{
     die("erro:".mysqli_error($link));
+
 }
 

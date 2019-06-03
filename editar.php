@@ -11,7 +11,6 @@
         $email = filter_input(INPUT_GET, "email");
         $senha = filter_input(INPUT_GET, "senha");
                 
-        
         ?>
     </head>
     <h1 style="color:black;">Informação de computação</h1>

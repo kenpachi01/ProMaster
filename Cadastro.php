@@ -37,8 +37,7 @@
                   <br>  Senha: <input type="password" name="senha" placeholder="No minimo 8 caracteres"maxlength="8" >       <br>
                 </td>
             </tr>
-            
-            
+        
             <tr>
                 <br>
                 <br>

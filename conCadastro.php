@@ -6,7 +6,6 @@ $sobrenomeD=$_POST['sobrenome'];
 $emailD =$_POST['email'];
 $SenhaD =$_POST['senha'];
 
-
 $inserir = "INSERT INTO tabela1 (nome, sobrenome, email, senha) VALUES ('$nomeD','$sobrenomeD','$emailD', '$SenhaD')";
 $resultado = mysqli_query($conn, $inserir);
 

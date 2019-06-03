@@ -12,7 +12,6 @@
              <table>
                  
                  <tr>
-
                      <td>
                          <h3>Para recuperare senha Digite seu E-mail e aguarde para resporta a sua solicitação.</h3> 
                          <br>

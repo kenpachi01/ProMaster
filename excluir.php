@@ -14,5 +14,6 @@ if(mysqli_affected_rows($conn)){
         </script>";
 }else{
     echo 'USUARIO NAO FOI EXCLUIDO !!';
+    
 }
 ?>
